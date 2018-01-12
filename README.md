@@ -8,3 +8,7 @@ Format your code using Intellij IDEA Community Edition
 
 - `$PWD` The path to a file or directory to be processed
 - `MASK` A comma-separated list of file masks which defines the files to be processed. Wildcards * (any string) and ? (any single character) are supported
+
+# Formatter
+
+Please check IDEA docs about [command line formatter](https://www.jetbrains.com/help/idea/command-line-formatter.html)
